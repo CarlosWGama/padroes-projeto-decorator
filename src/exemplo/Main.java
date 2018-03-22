@@ -13,7 +13,7 @@ public class Main {
 		sanduba = new Ovo(sanduba); //Adiciona +1 ovo
 		sanduba = new Ovo(sanduba); //Adiciona outro ovo
 		sanduba = new Bacon(sanduba); //Adiciona bacon
-		//Os ingredientes que o
+		//Os ingredientes e preço
 		System.out.println("Ingredientes: " + sanduba.getIngredientes());
 		System.out.println("Preço: " + sanduba.getPreco());
 	}
